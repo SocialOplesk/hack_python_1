@@ -12,7 +12,7 @@
 
 ```diff
 * 1) Tienes que clonar el repositorio 
-  git clone https://github.com/SocialOplesk/python_hack_h1
+  git clone https://github.com/SocialOplesk/test_python_hack_1.git
   
 * 2) Instalar los paquetes
   pip install -r requirements.txt
