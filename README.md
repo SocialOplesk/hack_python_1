@@ -19,8 +19,8 @@
 
 * 3) Para validar los hacks
   pytest test_hack.py -v (ejecuta todos los test)
-  pytest test_hack.py::text_hack_1.py (ejecuta un test en específico)
-  pytest test_hack.py::text_hack_3.py -v (ejecuta un test en específico)
+  pytest test_hack.py::test_hack_1.py (ejecuta un test en específico)
+  pytest test_hack.py::test_hack_3.py -v (ejecuta un test en específico)
 ```
 <br/>
 
