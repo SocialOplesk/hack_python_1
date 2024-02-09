@@ -22,7 +22,7 @@
   pytest test_hack.py::test_hack_1 (ejecuta un test en específico)
   pytest test_hack.py::test_hack_3 -v (ejecuta un test en específico)
 ```
-#### 🎬 Clone + Instalar requirements
+#### 🎬 Clonar Repo + Instalar requirements
 ![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_install.gif)
 
 <br/>
