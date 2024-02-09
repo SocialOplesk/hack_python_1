@@ -42,6 +42,9 @@
 <br/> 
 
 ## 🏆 H-1
+🔵 Acá tienes un ejemplo de como resolver el hack y adicional el ejecutar del testing, para validar el hack.
+
+![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_run.gif)
 ```sh
 text: "fooziman" output => "FOOZIMAN"
 ```
